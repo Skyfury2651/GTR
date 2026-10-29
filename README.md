@@ -27,14 +27,14 @@ Agents waste the first part of every session rediscovering the codebase, or wors
 ### With the skills CLI
 
 ```bash
-npx skills add <your-github-username>/git-aware-summary
+npx skills add Skyfury2651/GTR
 ```
 
 ### With the installer
 
 ```bash
-git clone https://github.com/<your-github-username>/git-aware-summary.git
-cd git-aware-summary
+git clone https://github.com/Skyfury2651/GTR.git
+cd GTR
 
 ./install.sh --dir /path/to/your/project
 ./install.sh --dir /path/to/your/project --agent cursor
